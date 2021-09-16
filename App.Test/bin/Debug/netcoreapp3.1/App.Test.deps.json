@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "App.Test/1.0.0": {
+        "dependencies": {
+          "IOCDI": "1.0.0"
+        },
+        "runtime": {
+          "App.Test.dll": {}
+        }
+      },
+      "IOCDI/1.0.0": {
+        "runtime": {
+          "IOCDI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IOCDI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

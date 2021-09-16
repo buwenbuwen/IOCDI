@@ -1,0 +1,17 @@
+E:\练习\IOC\App.Test\bin\Debug\netcoreapp3.1\App.Test.exe
+E:\练习\IOC\App.Test\bin\Debug\netcoreapp3.1\App.Test.deps.json
+E:\练习\IOC\App.Test\bin\Debug\netcoreapp3.1\App.Test.runtimeconfig.json
+E:\练习\IOC\App.Test\bin\Debug\netcoreapp3.1\App.Test.runtimeconfig.dev.json
+E:\练习\IOC\App.Test\bin\Debug\netcoreapp3.1\App.Test.dll
+E:\练习\IOC\App.Test\bin\Debug\netcoreapp3.1\App.Test.pdb
+E:\练习\IOC\App.Test\bin\Debug\netcoreapp3.1\IOCDI.dll
+E:\练习\IOC\App.Test\bin\Debug\netcoreapp3.1\IOCDI.pdb
+E:\练习\IOC\App.Test\obj\Debug\netcoreapp3.1\App.Test.csproj.AssemblyReference.cache
+E:\练习\IOC\App.Test\obj\Debug\netcoreapp3.1\App.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\练习\IOC\App.Test\obj\Debug\netcoreapp3.1\App.Test.AssemblyInfoInputs.cache
+E:\练习\IOC\App.Test\obj\Debug\netcoreapp3.1\App.Test.AssemblyInfo.cs
+E:\练习\IOC\App.Test\obj\Debug\netcoreapp3.1\App.Test.csproj.CoreCompileInputs.cache
+E:\练习\IOC\App.Test\obj\Debug\netcoreapp3.1\App.Test.csproj.CopyComplete
+E:\练习\IOC\App.Test\obj\Debug\netcoreapp3.1\App.Test.dll
+E:\练习\IOC\App.Test\obj\Debug\netcoreapp3.1\App.Test.pdb
+E:\练习\IOC\App.Test\obj\Debug\netcoreapp3.1\App.Test.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+E:\练习\IOC\IOCDI\bin\Debug\netcoreapp3.1\IOCDI.deps.json
+E:\练习\IOC\IOCDI\bin\Debug\netcoreapp3.1\IOCDI.dll
+E:\练习\IOC\IOCDI\bin\Debug\netcoreapp3.1\IOCDI.pdb
+E:\练习\IOC\IOCDI\obj\Debug\netcoreapp3.1\IOCDI.csproj.AssemblyReference.cache
+E:\练习\IOC\IOCDI\obj\Debug\netcoreapp3.1\IOCDI.GeneratedMSBuildEditorConfig.editorconfig
+E:\练习\IOC\IOCDI\obj\Debug\netcoreapp3.1\IOCDI.AssemblyInfoInputs.cache
+E:\练习\IOC\IOCDI\obj\Debug\netcoreapp3.1\IOCDI.AssemblyInfo.cs
+E:\练习\IOC\IOCDI\obj\Debug\netcoreapp3.1\IOCDI.csproj.CoreCompileInputs.cache
+E:\练习\IOC\IOCDI\obj\Debug\netcoreapp3.1\IOCDI.dll
+E:\练习\IOC\IOCDI\obj\Debug\netcoreapp3.1\IOCDI.pdb
