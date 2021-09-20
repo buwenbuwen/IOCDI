@@ -8,3 +8,6 @@ E:\练习\IOC\IOCDI\obj\Debug\netcoreapp3.1\IOCDI.AssemblyInfo.cs
 E:\练习\IOC\IOCDI\obj\Debug\netcoreapp3.1\IOCDI.csproj.CoreCompileInputs.cache
 E:\练习\IOC\IOCDI\obj\Debug\netcoreapp3.1\IOCDI.dll
 E:\练习\IOC\IOCDI\obj\Debug\netcoreapp3.1\IOCDI.pdb
+E:\练习\IOC\IOCDI\bin\Debug\netcoreapp3.1\CustomAOP.dll
+E:\练习\IOC\IOCDI\bin\Debug\netcoreapp3.1\CustomAOP.pdb
+E:\练习\IOC\IOCDI\obj\Debug\netcoreapp3.1\IOCDI.csproj.CopyComplete

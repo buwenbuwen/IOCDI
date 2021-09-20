@@ -1,4 +1,7 @@
-﻿using IOCDI.Container;
+﻿using Castle.DynamicProxy;
+using CustomAOP.AOPAttribute;
+using CustomAOP.AOPExtend;
+using IOCDI.Container;
 using IOCDI.CustomAttributes;
 using System;
 
@@ -38,17 +41,33 @@ namespace App.Test
             Console.WriteLine(object.ReferenceEquals(n2, w2));
             Console.ReadKey();
 
+            w1.Say();
+
+            //ProxyGenerator generator = new ProxyGenerator();
+            //CustomInterceptor interceptor = new CustomInterceptor();
+            //var t = (IService)generator.CreateInterfaceProxyWithTarget(typeof(IService), new Service(), interceptor);
+            //t.Say();
+
+
+            //Console.ReadKey();
 
         }
     }
 
-    public interface IService
+    [Monitor]
+    [LogBefore]
+    [LogAfter]
+    public interface IService 
     {
-
+        [Monitor]
+        void Say();
     }
     public class Service : IService
     {
-
+        public void Say()
+        {
+            Console.WriteLine("Service 执行了");
+        }
     }
 
 

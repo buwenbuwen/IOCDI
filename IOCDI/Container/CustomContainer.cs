@@ -1,4 +1,5 @@
-﻿using IOCDI.CustomAttributes;
+﻿using CustomAOP.AOPExtend;
+using IOCDI.CustomAttributes;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -165,7 +166,8 @@ namespace IOCDI.Container
                     break;
             }
 
-            return oInstance;
+            ////return oInstance;
+            return oInstance.AOP(abstractType);
         }
 
         /// <summary>

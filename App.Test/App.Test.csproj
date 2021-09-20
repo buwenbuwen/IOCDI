@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CustomAOP\CustomAOP.csproj" />
     <ProjectReference Include="..\IOCDI\IOCDI.csproj" />
   </ItemGroup>
 
